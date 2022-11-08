@@ -1,6 +1,6 @@
 # client
 
-Website Front-end for https://www.osgoodeoweek.com
+Website Front-end for what was `https://www.osgoodeoweek.com`, but I no longer own the domain.
 
 ## Project setup
 
